@@ -25,8 +25,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
-cd simple-meditation-app-expo-react-native
+git clone https://github.com/adityachauhan0/meditation-app.git
+cd meditation-app
 ```
 
 **Installation**
